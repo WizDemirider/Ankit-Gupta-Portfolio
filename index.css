@@ -39,6 +39,21 @@ ul {
     height: 32px;
 }
 
+.Contact img {
+    height: 32px;
+}
+
+.Contact li {
+    display: block;
+    float: right;
+}
+
+.Contact {
+    position: absolute;
+    top:25px;
+    right: 25px;
+}
+
 #profilepic {
     max-height: 50px;
     width: auto;
@@ -55,7 +70,7 @@ body {
     margin-right: 10%;
     margin-top: 85px;
     padding: 3%;
-    padding-top: 3%;
+    padding-top: 60px;
     font-family: 'Roboto Condensed';
     text-align: center;
 }
@@ -91,8 +106,6 @@ h5 {
     }
     .main-page {
         margin-left: 0;
-    }
-    .main-page {
         width:100%;
     }
     ul {
