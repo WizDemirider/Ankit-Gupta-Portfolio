@@ -148,3 +148,13 @@ h5 {
     list-style-type: disc;
     text-align: left;
 }
+
+#linksbox h4 {
+    padding-left: 5%;
+}
+
+#linksbox ul {
+    padding-left:10%;
+    list-style-type: disc;
+    text-align: left;
+}
